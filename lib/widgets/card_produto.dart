@@ -1,5 +1,6 @@
 import 'package:first_app/constants/styles.dart';
 import 'package:first_app/models/produto_model.dart';
+import 'package:first_app/view/product_screen.dart';
 import 'package:flutter/material.dart';
 
 class CardProduto extends StatelessWidget {

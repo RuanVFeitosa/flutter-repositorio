@@ -2,6 +2,7 @@ import 'package:first_app/view/cart_screen.dart';
 import 'package:first_app/view/categories_screen.dart';
 import 'package:first_app/view/dashboard_screen.dart';
 import 'package:first_app/view/estudo_func.dart';
+import 'package:first_app/view/product_screen.dart';
 
 import 'package:flutter/material.dart';
 
